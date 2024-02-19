@@ -1,0 +1,14 @@
+## This action will scale glyphs that have been 
+## transferred from a 2048 em unit font to a
+## 1000 em unit font.
+##-----------------------------------------------------
+##
+set F1 aw            
+set F2 lsb  
+set F3 [100*1000/2048]
+origin 0 0
+stretch F3 F3
+set lsb [F2*1000/2048]
+set aw [F1*1000/2048]
+##
+##-----------------------------------------------------

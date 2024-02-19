@@ -1,0 +1,25 @@
+## This action will rotate a glyph 90 degrees
+## clockwise about its centre
+##-----------------------------------------------------
+## Save lsb and rsb
+##
+set F2 lsb
+set F3 rsb
+##
+##-----------------------------------------------------
+## Set origin to centre of glyph
+##
+set F0 [xmax-xmin]
+set F1 [ymax-ymin]
+origin [xmin+F0/2]  [ymin+F1/2]
+##
+##-----------------------------------------------------
+## Rotate 90 degrees
+##
+rotate 90
+##
+##-----------------------------------------------------
+## Restore original rsb and lsb values
+##
+set lsb F2
+set rsb F3

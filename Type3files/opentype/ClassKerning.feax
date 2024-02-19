@@ -1,0 +1,17 @@
+# Include Kerning as Kerning Classes
+
+languagesystem DFLT dflt;
+languagesystem latn dflt;
+
+
+
+feature kern {
+
+include (features.kerning)
+include (features.classkerning)
+
+} kern;
+
+
+# include (features.kerning) will include the KERN table as a pair position lookup.
+# include (features.classkerning) will include appropriate KERN table entries as kern classes.

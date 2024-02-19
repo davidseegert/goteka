@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="tcaron" format="2">
+  <advance width="781.4"/>
+  <unicode hex="0165"/>
+  <outline>
+    <contour>
+      <point x="232.2" y="0.0" type="line"/>
+      <point x="232.2" y="835.8" type="line"/>
+      <point x="81.6" y="835.8" type="line"/>
+      <point x="81.6" y="1014.4" type="line"/>
+      <point x="232.2" y="1014.4" type="line"/>
+      <point x="232.2" y="1277.8" type="line"/>
+      <point x="426.2" y="1277.8" type="line"/>
+      <point x="426.2" y="1014.4" type="line"/>
+      <point x="665.8" y="1014.4" type="line"/>
+      <point x="665.8" y="835.8" type="line"/>
+      <point x="426.2" y="835.8" type="line"/>
+      <point x="428.2" y="0.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="66.6" y="1631.6" type="line"/>
+      <point x="241.2" y="1631.6" type="line"/>
+      <point x="372.2" y="1484.8" type="line"/>
+      <point x="506.2" y="1631.6" type="line"/>
+      <point x="683.4" y="1631.6" type="line"/>
+      <point x="451.6" y="1319.8" type="line"/>
+      <point x="293.8" y="1319.8" type="line"/>
+    </contour>
+  </outline>
+</glyph>

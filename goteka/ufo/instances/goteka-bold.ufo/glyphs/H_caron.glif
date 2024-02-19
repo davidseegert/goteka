@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Hcaron" format="2">
+  <advance width="1481.6"/>
+  <unicode hex="021E"/>
+  <outline>
+    <contour>
+      <point x="1331.6" y="1460.2" type="line"/>
+      <point x="1331.6" y="0.0" type="line"/>
+      <point x="1130.6" y="0.0" type="line"/>
+      <point x="1130.6" y="651.4" type="line"/>
+      <point x="359.2" y="651.4" type="line"/>
+      <point x="359.2" y="0.0" type="line"/>
+      <point x="159.2" y="0.0" type="line"/>
+      <point x="159.2" y="1460.2" type="line"/>
+      <point x="359.2" y="1460.2" type="line"/>
+      <point x="359.2" y="847.0" type="line"/>
+      <point x="1130.6" y="847.0" type="line"/>
+      <point x="1130.6" y="1460.2" type="line"/>
+    </contour>
+    <contour>
+      <point x="435.8" y="1813.0" type="line"/>
+      <point x="610.4" y="1813.0" type="line"/>
+      <point x="742.4" y="1666.8" type="line"/>
+      <point x="875.4" y="1813.0" type="line"/>
+      <point x="1053.2" y="1813.0" type="line"/>
+      <point x="820.8" y="1502.2" type="line"/>
+      <point x="663.0" y="1502.2" type="line"/>
+    </contour>
+  </outline>
+</glyph>

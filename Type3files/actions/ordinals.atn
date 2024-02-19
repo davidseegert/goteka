@@ -1,0 +1,22 @@
+## This action will create ordinals 
+## eg the superscript rd in 3rd
+##-----------------------------------------------------
+## Save the rsb in F1
+##
+set F1 rsb            
+##
+##-----------------------------------------------------
+## Do the transformation
+##
+origin 0 0
+stretch 50 50
+##
+##-----------------------------------------------------
+## Scale rsb
+##
+set rsb [F1/2]
+##
+##-----------------------------------------------------
+## Raise the glyph to xheight
+##
+set ymin xheight

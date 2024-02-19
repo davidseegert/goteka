@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="firsttonechinese" format="2">
+  <advance width="811.6"/>
+  <unicode hex="02C9"/>
+  <unicode hex="0304"/>
+  <outline>
+    <contour>
+      <point x="128.8" y="1329.0" type="line"/>
+      <point x="691.6" y="1329.0" type="line"/>
+      <point x="691.6" y="1166.2" type="line"/>
+      <point x="128.8" y="1166.2" type="line"/>
+    </contour>
+    <contour>
+      <point x="-54.6" y="987.2" type="line"/>
+      <point x="-54.6" y="987.2" type="line"/>
+      <point x="-54.6" y="987.2" type="line"/>
+      <point x="-54.6" y="987.2" type="line"/>
+    </contour>
+    <contour>
+      <point x="-54.6" y="987.2" type="line"/>
+      <point x="-54.6" y="987.2" type="line"/>
+      <point x="-54.6" y="987.2" type="line"/>
+      <point x="-54.6" y="987.2" type="line"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,10 @@
+# Slashed zero
+
+languagesystem DFLT dflt;
+languagesystem latn dflt;
+
+feature zero {
+
+    sub zero by zero.slashed;
+
+} zero;

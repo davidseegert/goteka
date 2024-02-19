@@ -1,0 +1,1 @@
+python C:\Scripts\specimen.py %1 %2 %3

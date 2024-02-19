@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="descender" format="2">
+  <advance width="1229"/>
+  <outline>
+    <contour>
+      <point x="160" y="996" type="line"/>
+      <point x="160" y="-332" type="line"/>
+      <point x="303" y="-332" type="line"/>
+      <point x="303" y="996" type="line"/>
+    </contour>
+  </outline>
+</glyph>

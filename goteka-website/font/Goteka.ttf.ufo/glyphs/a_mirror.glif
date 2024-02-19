@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="a_mirror" format="2">
+  <advance width="1229"/>
+  <outline>
+    <contour>
+      <point x="1853" y="892" type="qcurve"/>
+      <point x="1948" y="890"/>
+      <point x="2028" y="840" type="qcurve"/>
+      <point x="2103" y="789"/>
+      <point x="2146" y="701" type="qcurve"/>
+      <point x="2187" y="611"/>
+      <point x="2187" y="498" type="qcurve"/>
+      <point x="2187" y="381"/>
+      <point x="2146" y="295" type="qcurve"/>
+      <point x="2103" y="205"/>
+      <point x="2025" y="156" type="qcurve"/>
+      <point x="1948" y="105"/>
+      <point x="1853" y="107" type="qcurve"/>
+      <point x="1757" y="105"/>
+      <point x="1681" y="156" type="qcurve"/>
+      <point x="1603" y="205"/>
+      <point x="1562" y="295" type="qcurve"/>
+      <point x="1519" y="381"/>
+      <point x="1519" y="498" type="qcurve"/>
+      <point x="1519" y="611"/>
+      <point x="1562" y="703" type="qcurve"/>
+      <point x="1603" y="791"/>
+      <point x="1681" y="840" type="qcurve"/>
+      <point x="1757" y="890"/>
+    </contour>
+    <contour>
+      <point x="1374" y="0" type="line"/>
+      <point x="1519" y="0" type="line"/>
+      <point x="1519" y="187" type="line"/>
+      <point x="1576" y="86"/>
+      <point x="1763" y="-25"/>
+      <point x="1880" y="-25" type="qcurve"/>
+      <point x="2009" y="-25"/>
+      <point x="2116" y="43" type="qcurve"/>
+      <point x="2218" y="109"/>
+      <point x="2280" y="230" type="qcurve"/>
+      <point x="2339" y="348"/>
+      <point x="2341" y="498" type="qcurve"/>
+      <point x="2339" y="644"/>
+      <point x="2280" y="767" type="qcurve"/>
+      <point x="2218" y="886"/>
+      <point x="2114" y="953" type="qcurve"/>
+      <point x="2009" y="1021"/>
+      <point x="1880" y="1019" type="qcurve"/>
+      <point x="1761" y="1019"/>
+      <point x="1574" y="906"/>
+      <point x="1519" y="810" type="qcurve"/>
+      <point x="1519" y="996" type="line"/>
+      <point x="1374" y="996" type="line"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Udblgrave" format="2">
+  <advance width="1445.6"/>
+  <unicode hex="0214"/>
+  <outline>
+    <contour>
+      <point x="724.8" y="-22.8" type="qcurve"/>
+      <point x="568.4" y="-22.8"/>
+      <point x="438.4" y="51.8" type="qcurve"/>
+      <point x="310.8" y="129.0"/>
+      <point x="240.4" y="256.0" type="qcurve"/>
+      <point x="171.2" y="391.2"/>
+      <point x="168.2" y="551.6" type="qcurve"/>
+      <point x="168.2" y="1457.4" type="line"/>
+      <point x="335.2" y="1457.4" type="line"/>
+      <point x="335.2" y="551.8" type="line"/>
+      <point x="335.2" y="432.6"/>
+      <point x="386.4" y="335.8" type="qcurve"/>
+      <point x="435.6" y="241.2"/>
+      <point x="522.4" y="185.4" type="qcurve"/>
+      <point x="612.0" y="133.2"/>
+      <point x="724.8" y="130.4" type="qcurve"/>
+      <point x="834.8" y="133.4"/>
+      <point x="922.6" y="185.4" type="qcurve"/>
+      <point x="1012.2" y="239.4"/>
+      <point x="1062.4" y="333.8" type="qcurve"/>
+      <point x="1114.6" y="430.6"/>
+      <point x="1111.6" y="551.8" type="qcurve"/>
+      <point x="1111.6" y="1457.4" type="line"/>
+      <point x="1278.6" y="1457.4" type="line"/>
+      <point x="1278.6" y="552.0" type="line"/>
+      <point x="1282.6" y="391.4"/>
+      <point x="1210.4" y="255.8" type="qcurve"/>
+      <point x="1142.8" y="129.2"/>
+      <point x="1013.4" y="51.8" type="qcurve"/>
+      <point x="883.4" y="-22.8"/>
+    </contour>
+    <contour>
+      <point x="870.8" y="1813.8" type="line"/>
+      <point x="744.6" y="1784.8" type="line"/>
+      <point x="997.2" y="1558.2" type="line"/>
+      <point x="1085.2" y="1558.2" type="line"/>
+    </contour>
+    <contour>
+      <point x="490.4" y="1810.0" type="line"/>
+      <point x="363.4" y="1780.8" type="line"/>
+      <point x="616.8" y="1558.2" type="line"/>
+      <point x="704.6" y="1558.2" type="line"/>
+    </contour>
+  </outline>
+</glyph>

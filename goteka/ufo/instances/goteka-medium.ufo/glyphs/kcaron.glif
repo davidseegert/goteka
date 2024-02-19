@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="kcaron" format="2">
+  <advance width="1050.4"/>
+  <unicode hex="01E9"/>
+  <outline>
+    <contour>
+      <point x="143.4" y="1457.4" type="line"/>
+      <point x="308.4" y="1457.4" type="line"/>
+      <point x="308.4" y="556.8" type="line"/>
+      <point x="752.8" y="1002.8" type="line"/>
+      <point x="979.8" y="1002.8" type="line"/>
+      <point x="493.0" y="515.2" type="line"/>
+      <point x="1010.4" y="0.0" type="line"/>
+      <point x="783.2" y="0.0" type="line"/>
+      <point x="308.4" y="473.0" type="line"/>
+      <point x="308.4" y="0.0" type="line"/>
+      <point x="143.4" y="0.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="292.4" y="1819.0" type="line"/>
+      <point x="424.8" y="1819.0" type="line"/>
+      <point x="568.8" y="1659.6" type="line"/>
+      <point x="713.8" y="1819.0" type="line"/>
+      <point x="848.4" y="1819.0" type="line"/>
+      <point x="639.6" y="1539.4" type="line"/>
+      <point x="497.0" y="1539.4" type="line"/>
+    </contour>
+  </outline>
+</glyph>

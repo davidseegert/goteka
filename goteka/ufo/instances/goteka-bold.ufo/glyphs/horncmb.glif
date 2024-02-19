@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="horncmb" format="2">
+  <advance width="574.2"/>
+  <unicode hex="031B"/>
+  <outline>
+    <contour>
+      <point x="146.0" y="905.0" type="line"/>
+      <point x="236.6" y="1009.4"/>
+      <point x="248.6" y="1053.4" type="qcurve"/>
+      <point x="234.2" y="1053.4"/>
+      <point x="192.4" y="1091.2" type="qcurve"/>
+      <point x="155.2" y="1131.4"/>
+      <point x="155.2" y="1184.0" type="qcurve"/>
+      <point x="155.2" y="1236.8"/>
+      <point x="193.0" y="1272.6" type="qcurve"/>
+      <point x="231.0" y="1309.0"/>
+      <point x="284.6" y="1311.6" type="qcurve"/>
+      <point x="352.4" y="1314.2"/>
+      <point x="389.6" y="1259.0" type="qcurve"/>
+      <point x="426.2" y="1212.0"/>
+      <point x="426.2" y="1134.8" type="qcurve"/>
+      <point x="427.2" y="1078.6"/>
+      <point x="394.0" y="1009.4" type="qcurve"/>
+      <point x="364.0" y="949.8"/>
+      <point x="260.8" y="819.0" type="qcurve"/>
+    </contour>
+  </outline>
+</glyph>

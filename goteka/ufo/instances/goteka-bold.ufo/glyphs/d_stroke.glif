@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="d_stroke" format="2">
+  <advance width="993.0"/>
+  <outline>
+    <contour>
+      <point x="1099.0" y="1460.2" type="line"/>
+      <point x="1099.0" y="960.0" type="line"/>
+      <point x="903.0" y="960.0" type="line"/>
+      <point x="903.0" y="1460.2" type="line"/>
+    </contour>
+  </outline>
+</glyph>

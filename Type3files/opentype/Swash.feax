@@ -1,0 +1,10 @@
+# Swashes: A-Z
+
+languagesystem DFLT dflt;
+languagesystem latn dflt;
+
+feature swsh {
+
+    sub [A-Z] by [A.swash-Z.swash];
+
+} swsh;

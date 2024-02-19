@@ -1,0 +1,22 @@
+## This action will scale capital letters to
+## the height of small letters
+##-----------------------------------------------------
+## Save rsb in F1
+##
+set F1 rsb            
+##
+##-----------------------------------------------------
+## Calculate the scale as a percentage
+##
+set F0 [100*xheight/caps]
+##
+##-----------------------------------------------------
+## Do the transformation
+##
+origin 0 0
+stretch F0 F0
+##
+##-----------------------------------------------------
+## Scale rsb
+##
+set rsb [F1*xheight/caps]

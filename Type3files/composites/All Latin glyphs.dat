@@ -1,0 +1,31 @@
+# COMPOSITE LIST FOR ALL LATIN GLYPHS
+#------------------------------------
+#
+# This will generate 199 composite glyphs 
+# contained in following unicode scripts:
+# Basic latin
+# Latin-1 supplement
+# Latin extended A
+# Latin extended B
+#
+#----------------------------
+# Required base glyphs:
+#
+# Upper case letters A-Z
+# Lower case letters a-z
+#
+#----------------------------
+# Required modifier glyphs:
+#
+# 0300	GRAVECMB
+# 0301	ACUTECMB
+# 0302	CIRCUMFLEXCMB
+# 0303	TILDECMB
+# 0308	DIERESISCMB
+# 030A	RINGCMB
+# 030C	CARONCMB
+# 031B	HORNCMB
+# 0327	CEDILLACMB
+#
+# These can be found in the Modifers (Auto)
+# "Codepage" listing.

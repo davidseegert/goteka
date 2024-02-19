@@ -1,0 +1,6 @@
+## This action will decompose composite glyphs
+## Run it over the entire font to decompose 
+## all composites
+##-----------------------------------------------------
+##
+decompose

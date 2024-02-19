@@ -1,0 +1,571 @@
+@A_kern = [
+# KERN_CLASS
+A
+Aacute
+Abreve
+Abreveacute
+Abrevedotbelow
+Abrevegrave
+Abrevehookabove
+Abrevetilde
+Acaron
+Acircumflex
+Acircumflexacute
+Acircumflexdotbelow
+Acircumflexgrave
+Acircumflexhookabove
+Acircumflextilde
+Adieresis
+Adotbelow
+Agrave
+Ahookabove
+Amacron
+Aring
+Aringacute
+Atilde
+];
+
+@B_kern = [
+# KERN_CLASS
+B
+Bdotbelow
+];
+
+@C_kern = [
+# KERN_CLASS
+C
+Cacute
+Ccaron
+Ccedilla
+Ccircumflex
+Cdotaccent
+];
+
+@D_kern = [
+# KERN_CLASS
+D
+Dcaron
+Dcircumflexbelow
+Ddotbelow
+Dlinebelow
+];
+
+@E_kern = [
+# KERN_CLASS
+E
+Eacute
+Ebreve
+Ecaron
+Ecircumflex
+Ecircumflexacute
+Ecircumflexdotbelow
+Ecircumflexgrave
+Ecircumflexhookabove
+Ecircumflextilde
+Edieresis
+Edotaccent
+Edotbelow
+Egrave
+Ehookabove
+Emacron
+Etilde
+];
+
+@G_kern = [
+# KERN_CLASS
+G
+Gacute
+Gbreve
+Gcaron
+Gcommaaccent
+Gcircumflex
+Gdotaccent
+Gmacron
+];
+
+@H_kern = [
+# KERN_CLASS
+H
+Hbrevebelow
+Hcircumflex
+Hdotbelow
+];
+
+@I_kern = [
+# KERN_CLASS
+I
+Iacute
+Ibreve
+Icaron
+Icircumflex
+Idieresis
+Idotaccent
+Idotbelow
+Igrave
+Ihookabove
+Imacron
+Itilde
+];
+
+@J_kern = [
+# KERN_CLASS
+J
+Jcircumflex
+];
+
+@K_kern = [
+# KERN_CLASS
+K
+Kcommaaccent
+Kdotbelow
+Khook
+Klinebelow
+];
+
+@L_kern = [
+# KERN_CLASS
+L
+Lacute
+Lcaron
+Lcommaaccent
+Lcircumflexbelow
+Ldotbelow
+Ldotbelowmacron
+Llinebelow
+Ldot
+];
+
+@M_kern = [
+# KERN_CLASS
+M
+Macute
+Mdotaccent
+Mdotbelow
+];
+
+@N_kern = [
+# KERN_CLASS
+N
+Nacute
+Ncaron
+Ncommaaccent
+Ncircumflexbelow
+Ndotaccent
+Ndotbelow
+uni01F8
+Nlinebelow
+];
+
+@O_kern = [
+# KERN_CLASS
+O
+Oacute
+Obreve
+Ocaron
+Ocircumflex
+Ocircumflexacute
+Ocircumflexdotbelow
+Ocircumflexgrave
+Ocircumflexhookabove
+Ocircumflextilde
+Odieresis
+Odotbelow
+Ohungarumlaut
+Ograve
+Ohookabove
+Ohorn
+Ohornacute
+Ohorndotbelow
+Ohorngrave
+Ohornhookabove
+Ohorntilde
+Omacron
+Ocenteredtilde
+Oogonek
+];
+
+@R_kern = [
+# KERN_CLASS
+R
+Racute
+Rcaron
+Rcommaaccent
+Rdotaccent
+Rdotbelow
+Rdotbelowmacron
+Rlinebelow
+];
+
+@S_kern = [
+# KERN_CLASS
+S
+Sacute
+Scaron
+Scedilla
+Scircumflex
+Scommaaccent
+Sdotaccent
+Sdotbelow
+];
+
+@T_kern = [
+# KERN_CLASS
+T
+Tcaron
+Tcommaaccent
+Tcircumflexbelow
+uni021A
+Tdotbelow
+Tlinebelow
+];
+
+@U_kern = [
+# KERN_CLASS
+U
+Uacute
+Ubreve
+Ucaron
+Ucircumflex
+Udieresis
+Udieresisacute
+Udieresiscaron
+Udieresisgrave
+Udieresismacron
+Udotbelow
+Uhungarumlaut
+Ugrave
+Uhookabove
+Uhorn
+Uhornacute
+Uhorndotbelow
+Uhorngrave
+Uhornhookabove
+Uhorntilde
+Umacron
+Uogonek
+Uring
+Utilde
+];
+
+@W_kern = [
+# KERN_CLASS
+W
+Wacute
+Wcircumflex
+Wdieresis
+Wgrave
+];
+
+@Y_kern = [
+# KERN_CLASS
+Y
+Yacute
+Ycircumflex
+Ydieresis
+Ydotaccent
+Ydotbelow
+Ygrave
+Yhook
+Yhookabove
+uni0232
+Ytilde
+];
+
+@Z_kern = [
+# KERN_CLASS
+Z
+Zacute
+Zcaron
+Zdotaccent
+Zdotbelow
+Zlinebelow
+];
+
+@a_kern = [
+# KERN_CLASS
+a
+aacute
+abreve
+abreveacute
+abrevedotbelow
+abrevegrave
+abrevehookabove
+abrevetilde
+acaron
+acircumflex
+acircumflexacute
+acircumflexdotbelow
+acircumflexgrave
+acircumflexhookabove
+acircumflextilde
+adieresis
+adotbelow
+agrave
+ahookabove
+amacron
+aogonek
+aring
+aringacute
+atilde
+];
+
+@b_kern = [
+# KERN_CLASS
+b
+bdotbelow
+];
+
+@c_kern = [
+# KERN_CLASS
+c
+cacute
+ccaron
+ccedilla
+ccircumflex
+cdotaccent
+];
+
+@d_kern = [
+# KERN_CLASS
+d
+dcaron
+dcircumflexbelow
+ddotbelow
+dlinebelow
+];
+
+@e_kern = [
+# KERN_CLASS
+e
+eacute
+ebreve
+ecaron
+ecircumflex
+ecircumflexacute
+ecircumflexdotbelow
+ecircumflexgrave
+ecircumflexhookabove
+ecircumflextilde
+edieresis
+edotaccent
+edotbelow
+egrave
+ehookabove
+emacron
+etilde
+];
+
+@g_kern = [
+# KERN_CLASS
+g
+gacute
+gbreve
+gcaron
+gcommaaccent
+gcircumflex
+gdotaccent
+gmacron
+];
+
+@h_kern = [
+# KERN_CLASS
+h
+hbrevebelow
+hcircumflex
+hdotbelow
+hhook
+hlinebelow
+hbar
+];
+
+@i_kern = [
+# KERN_CLASS
+i
+iacute
+ibreve
+icaron
+icircumflex
+idieresis
+idotbelow
+igrave
+ihookabove
+imacron
+itilde
+dotlessi
+];
+
+@j_kern = [
+# KERN_CLASS
+j
+jcaron
+jcircumflex
+jcrossedtail
+uni0237
+];
+
+@k_kern = [
+# KERN_CLASS
+k
+kcommaaccent
+kdotbelow
+klinebelow
+];
+
+@l_kern = [
+# KERN_CLASS
+l
+lacute
+lcaron
+lcommaaccent
+lcircumflexbelow
+ldotbelow
+ldotbelowmacron
+llinebelow
+lhookretroflex
+];
+
+@m_kern = [
+# KERN_CLASS
+m
+macute
+mdotaccent
+mdotbelow
+];
+
+@n_kern = [
+# KERN_CLASS
+n
+napostrophe
+nacute
+ncaron
+ncommaaccent
+ncircumflexbelow
+ndotaccent
+ndotbelow
+uni01F9
+nlinebelow
+nhookretroflex
+ntilde
+];
+
+@o_kern = [
+# KERN_CLASS
+o
+oacute
+obreve
+ocaron
+ocircumflex
+ocircumflexacute
+ocircumflexdotbelow
+ocircumflexgrave
+ocircumflexhookabove
+ocircumflextilde
+odieresis
+odotbelow
+ohungarumlaut
+ograve
+ohookabove
+ohorn
+ohornacute
+ohorndotbelow
+ohorngrave
+ohornhookabove
+ohorntilde
+omacron
+oogonek
+otilde
+];
+
+@r_kern = [
+# KERN_CLASS
+r
+racute
+rcaron
+rcommaaccent
+rdotaccent
+rdotbelow
+rdotbelowmacron
+rfishhook
+rlinebelow
+];
+
+@s_kern = [
+# KERN_CLASS
+s
+sacute
+scaron
+scedilla
+scircumflex
+scommaaccent
+sdotaccent
+sdotbelow
+];
+
+@t_kern = [
+# KERN_CLASS
+t
+tcaron
+tcommaaccent
+tcircumflexbelow
+uni021B
+tdieresis
+tdotbelow
+tlinebelow
+];
+
+@u_kern = [
+# KERN_CLASS
+u
+uacute
+ubreve
+ucaron
+ucircumflex
+udieresis
+udieresisacute
+udieresiscaron
+udieresisgrave
+udieresismacron
+udotbelow
+uhungarumlaut
+ugrave
+uhookabove
+umacron
+uogonek
+uring
+utilde
+];
+
+@w_kern = [
+# KERN_CLASS
+w
+wacute
+wcircumflex
+wdieresis
+wgrave
+];
+
+@y_kern = [
+# KERN_CLASS
+y
+yacute
+ycircumflex
+ydieresis
+ydotaccent
+ydotbelow
+ygrave
+yhook
+yhookabove
+uni0233
+ytilde
+];
+
+@z_kern = [
+# KERN_CLASS
+z
+zacute
+zcaron
+zdotaccent
+zdotbelow
+zlinebelow
+];
+

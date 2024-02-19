@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Type 3.2 font editor (http://cr8software.net) -->
+
+<svg
+  width="2048"
+  height="2048"
+ viewBox="0 0 2048 2048"
+  id="svg2"
+  version="1.1"
+  >
+  <g id="layer1">
+  <path
+    style="fill:none;stroke:#000000;stroke-width:3px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+    d="m 398,1374 c -57,0 -110,-15 -158,-44 c -46,-29 -83,-68 -111,-118 c -24,-52 -37,-107 -37,-164 c -1,-64 11,-121 37,-171 c 28,-53 65,-93 111,-121 c 50,-30 103,-45 160,-45 c 59,0 112,15 158,45 c 49,28 86,67 110,119 c 26,52 39,108 37,169 c 2,60 -11,116 -37,168 c -26,50 -62,89 -110,118 c -46,29 -100,44 -160,44 "
+  id="path0" />
+  <path
+    style="fill:none;stroke:#000000;stroke-width:3px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+    d="m 1158,724 l 127,0 l -906,1324 l -125,0 l 904,-1324 "
+  id="path1" />
+  <path
+    style="fill:none;stroke:#000000;stroke-width:3px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+    d="m 400,1271 c 54,1 97,-20 131,-63 c 36,-46 53,-100 53,-162 c 2,-66 -16,-121 -53,-164 c -34,-46 -78,-68 -133,-66 c -54,-2 -99,20 -134,64 c -34,43 -51,98 -51,166 c 0,61 18,114 53,159 c 36,44 81,66 134,66 "
+  id="path2" />
+  <path
+    style="fill:none;stroke:#000000;stroke-width:3px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+    d="m 1134,2068 c -56,0 -108,-15 -156,-43 c -45,-29 -81,-68 -109,-118 c -27,-54 -41,-111 -41,-171 c 0,-60 13,-116 39,-168 c 26,-52 63,-93 109,-121 c 50,-29 103,-43 160,-43 c 60,0 113,14 158,43 c 49,27 86,67 110,119 c 26,52 39,108 39,168 c 0,62 -13,118 -39,170 c -26,50 -62,90 -110,119 c -46,30 -100,45 -160,45 "
+  id="path3" />
+  <path
+    style="fill:none;stroke:#000000;stroke-width:3px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+    d="m 1136,1962 c 54,1 97,-20 131,-62 c 36,-44 53,-98 53,-164 c 0,-66 -17,-120 -53,-164 c -35,-44 -79,-65 -133,-63 c -53,-2 -98,19 -134,61 c -35,44 -52,98 -51,164 c -1,64 16,119 51,164 c 36,42 82,64 136,64 "
+  id="path4" />
+  <path
+    style="fill:none;stroke:#000000;stroke-width:3px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+    d="m 1158,724 l 127,0 l -906,1324 l -125,0 l 904,-1324 "
+  id="path5" />
+  </g>
+</svg>

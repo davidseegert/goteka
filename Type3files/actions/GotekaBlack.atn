@@ -1,0 +1,9 @@
+resetvariation
+
+set F0 rsb
+
+stroke -100 
+move 72 50
+stretch 94 94
+
+set rsb F0

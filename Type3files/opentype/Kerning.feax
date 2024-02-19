@@ -1,0 +1,13 @@
+# Include Kerning pairs as OpenType kerning
+
+languagesystem DFLT dflt;
+languagesystem latn dflt;
+
+feature kern {
+
+include (features.kerning)
+
+} kern;
+
+
+# include (features.kerning) will include the KERN table as a pair position lookup.

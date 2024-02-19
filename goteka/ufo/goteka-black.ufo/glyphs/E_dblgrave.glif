@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Edblgrave" format="2">
+  <advance width="1257"/>
+  <unicode hex="0204"/>
+  <outline>
+    <contour>
+      <point x="400" y="1233" type="line"/>
+      <point x="400" y="857" type="line"/>
+      <point x="1078" y="857" type="line"/>
+      <point x="1078" y="630" type="line"/>
+      <point x="400" y="630" type="line"/>
+      <point x="400" y="227" type="line"/>
+      <point x="1152" y="227" type="line"/>
+      <point x="1152" y="0" type="line"/>
+      <point x="164" y="0" type="line"/>
+      <point x="164" y="1463" type="line"/>
+      <point x="1152" y="1463" type="line"/>
+      <point x="1152" y="1233" type="line"/>
+    </contour>
+    <contour>
+      <point x="783" y="1721" type="line"/>
+      <point x="757" y="1716" type="line"/>
+      <point x="932" y="1559" type="line"/>
+      <point x="919" y="1559" type="line"/>
+    </contour>
+    <contour>
+      <point x="421" y="1718" type="line"/>
+      <point x="395" y="1712" type="line"/>
+      <point x="570" y="1559" type="line"/>
+      <point x="556" y="1559" type="line"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,17 @@
+# Ordinals: a d h n o r s t
+
+languagesystem DFLT dflt;
+languagesystem latn dflt;
+
+feature ordn {
+
+    sub a by ordfeminine;
+    sub d by d.superior;
+    sub h by h.superior;
+    sub n by n.superior;
+    sub o by ordmasculine;
+    sub r by r.superior;
+    sub s by s.superior;
+    sub t by t.superior;
+
+} ordn;

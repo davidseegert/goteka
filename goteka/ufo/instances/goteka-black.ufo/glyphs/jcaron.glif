@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="jcaron" format="2">
+  <advance width="573"/>
+  <unicode hex="01F0"/>
+  <outline>
+    <contour>
+      <point x="277" y="1108" type="qcurve"/>
+      <point x="222" y="1105"/>
+      <point x="180" y="1150" type="qcurve"/>
+      <point x="139" y="1194"/>
+      <point x="140" y="1244" type="qcurve"/>
+      <point x="138" y="1299"/>
+      <point x="179" y="1340" type="qcurve"/>
+      <point x="220" y="1381"/>
+      <point x="275" y="1381" type="qcurve"/>
+      <point x="332" y="1386"/>
+      <point x="374" y="1342" type="qcurve"/>
+      <point x="418" y="1298"/>
+      <point x="414" y="1245" type="qcurve"/>
+      <point x="420" y="1196"/>
+      <point x="378" y="1150" type="qcurve"/>
+      <point x="337" y="1105"/>
+    </contour>
+    <contour>
+      <point x="118" y="-378" type="qcurve"/>
+      <point x="77" y="-378"/>
+      <point x="27" y="-369" type="qcurve"/>
+      <point x="-15" y="-357"/>
+      <point x="-81" y="-333" type="qcurve"/>
+      <point x="-47" y="-130" type="line"/>
+      <point x="29" y="-152"/>
+      <point x="55" y="-160" type="qcurve"/>
+      <point x="85" y="-162"/>
+      <point x="109" y="-163" type="qcurve"/>
+      <point x="131" y="-162"/>
+      <point x="144" y="-146" type="qcurve"/>
+      <point x="162" y="-126"/>
+      <point x="162" y="-94" type="qcurve"/>
+      <point x="162" y="1030" type="line"/>
+      <point x="392" y="1030" type="line"/>
+      <point x="392" y="-93" type="line"/>
+      <point x="396" y="-216"/>
+      <point x="316" y="-298" type="qcurve"/>
+      <point x="235" y="-378"/>
+    </contour>
+    <contour>
+      <point x="-167" y="1728" type="line"/>
+      <point x="50" y="1728" type="line"/>
+      <point x="170" y="1595" type="line"/>
+      <point x="291" y="1728" type="line"/>
+      <point x="512" y="1728" type="line"/>
+      <point x="257" y="1386" type="line"/>
+      <point x="83" y="1386" type="line"/>
+    </contour>
+  </outline>
+</glyph>

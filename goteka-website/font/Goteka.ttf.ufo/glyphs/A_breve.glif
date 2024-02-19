@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Abreve" format="2">
+  <advance width="1352"/>
+  <unicode hex="0102"/>
+  <outline>
+    <contour>
+      <point x="596" y="1456" type="line"/>
+      <point x="63" y="0" type="line"/>
+      <point x="225" y="0" type="line"/>
+      <point x="378" y="418" type="line"/>
+      <point x="977" y="418" type="line"/>
+      <point x="1127" y="0" type="line"/>
+      <point x="1288" y="0" type="line"/>
+      <point x="760" y="1456" type="line"/>
+    </contour>
+    <contour>
+      <point x="678" y="1234" type="line"/>
+      <point x="926" y="558" type="line"/>
+      <point x="429" y="558" type="line"/>
+    </contour>
+    <contour>
+      <point x="675" y="1558" type="qcurve"/>
+      <point x="755" y="1558"/>
+      <point x="827" y="1589" type="qcurve"/>
+      <point x="903" y="1620"/>
+      <point x="954" y="1675" type="qcurve"/>
+      <point x="866" y="1765" type="line"/>
+      <point x="829" y="1728"/>
+      <point x="774" y="1704" type="qcurve"/>
+      <point x="725" y="1683"/>
+      <point x="675" y="1683" type="qcurve"/>
+      <point x="624" y="1683"/>
+      <point x="571" y="1704" type="qcurve"/>
+      <point x="522" y="1728"/>
+      <point x="485" y="1765" type="qcurve"/>
+      <point x="393" y="1675" type="line"/>
+      <point x="452" y="1617"/>
+      <point x="526" y="1587" type="qcurve"/>
+      <point x="600" y="1558"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,13 @@
+# Small capital forms for: a-z ! & ?
+
+languagesystem DFLT dflt;
+languagesystem latn dflt;
+
+feature smcp {
+
+    sub [a-z] by [A.sc-Z.sc];
+    sub exclam by exclam.sc;
+    sub ampersand by ampersand.sc;
+    sub question by question.sc;
+
+} smcp;

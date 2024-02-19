@@ -1,0 +1,19 @@
+# Fractions: numerators, .numr denominators .dnom, fraction
+
+languagesystem DFLT dflt;
+languagesystem latn dflt;
+
+@standard = [zero one two three four five six seven eight nine];
+@numerator = [zero.numr one.numr two.numr three.numr four.numr five.numr six.numr seven.numr eight.numr nine.numr];
+@denominator = [zero.dnom one.dnom two.dnom three.dnom four.dnom five.dnom six.dnom seven.dnom eight.dnom nine.dnom];
+
+	feature frac { # my Fractions feature
+		sub slash by fraction; 
+		sub @standard by @numerator;
+	} frac;
+
+	feature frac { # my Fractions feature
+		sub fraction @numerator' by @denominator; 
+		sub @denominator @numerator' by @denominator;
+	} frac;
+

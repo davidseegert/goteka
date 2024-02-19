@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ascender" format="2">
+  <advance width="1229"/>
+  <outline>
+    <contour>
+      <point x="160" y="1347" type="line"/>
+      <point x="160" y="0" type="line"/>
+      <point x="303" y="0" type="line"/>
+      <point x="303" y="1347" type="line"/>
+    </contour>
+  </outline>
+</glyph>

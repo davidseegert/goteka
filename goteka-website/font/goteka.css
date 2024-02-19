@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'Goteka';
+    src: url('./goteka.ttf') format('truetype');
+    font-weight: 200 900;
+}
+
+i, em {
+     font-variation-settings: 'ital' 1;
+}

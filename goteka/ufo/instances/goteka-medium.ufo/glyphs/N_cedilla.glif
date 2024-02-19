@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Ncedilla" format="2">
+  <advance width="1571.4"/>
+  <unicode hex="0145"/>
+  <outline>
+    <contour>
+      <point x="182.0" y="1457.4" type="line"/>
+      <point x="346.2" y="1457.4" type="line"/>
+      <point x="1223.4" y="282.8" type="line"/>
+      <point x="1223.4" y="1457.4" type="line"/>
+      <point x="1390.4" y="1457.4" type="line"/>
+      <point x="1390.4" y="0.0" type="line"/>
+      <point x="1228.0" y="0.0" type="line"/>
+      <point x="351.0" y="1176.4" type="line"/>
+      <point x="351.0" y="0.0" type="line"/>
+      <point x="182.0" y="0.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="832.6" y="-189.4" type="qcurve"/>
+      <point x="894.6" y="-186.6"/>
+      <point x="933.6" y="-224.6" type="qcurve"/>
+      <point x="978.6" y="-261.0"/>
+      <point x="975.4" y="-323.0" type="qcurve"/>
+      <point x="975.4" y="-395.2"/>
+      <point x="916.4" y="-441.6" type="qcurve"/>
+      <point x="862.6" y="-486.0"/>
+      <point x="777.2" y="-486.0" type="qcurve"/>
+      <point x="731.4" y="-486.0"/>
+      <point x="683.4" y="-471.8" type="qcurve"/>
+      <point x="634.4" y="-453.6"/>
+      <point x="597.4" y="-427.6" type="qcurve"/>
+      <point x="642.2" y="-331.0" type="line"/>
+      <point x="706.4" y="-377.6"/>
+      <point x="771.6" y="-380.4" type="qcurve"/>
+      <point x="808.4" y="-380.4"/>
+      <point x="831.6" y="-361.6" type="qcurve"/>
+      <point x="857.4" y="-342.0"/>
+      <point x="854.8" y="-316.6" type="qcurve"/>
+      <point x="857.2" y="-289.6"/>
+      <point x="840.4" y="-277.6" type="qcurve"/>
+      <point x="822.0" y="-258.8"/>
+      <point x="789.2" y="-258.8" type="qcurve"/>
+      <point x="758.0" y="-258.8"/>
+      <point x="726.2" y="-285.2" type="qcurve"/>
+      <point x="685.4" y="-241.4" type="line"/>
+      <point x="752.2" y="-82.0" type="line"/>
+      <point x="870.2" y="-82.0" type="line"/>
+      <point x="831.4" y="-177.8" type="line"/>
+      <point x="818.2" y="-186.2"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,20 @@
+## This action will produce characters
+## with an italic angle of 10 degrees
+##
+##-----------------------------------------------------
+## Save lsb and aw
+##
+set F0 lsb
+set F1 aw
+##
+##-----------------------------------------------------
+## Do the transformation
+##
+skewx 10
+##
+##-----------------------------------------------------
+## Restore original lsb and aw values
+##
+set lsb F0
+set aw F1
+set p1 0

@@ -1,0 +1,32 @@
+# Ligatures: ffi ffl fi fl ff fj fb fh fk
+
+languagesystem DFLT dflt;
+languagesystem latn dflt;
+
+feature liga {
+
+    sub f f i by f_f_i;
+    sub f f l by f_f_l;
+    sub f i by f_i;
+    sub f l by f_l;
+    sub f f by f_f;
+    sub f j by f_j;
+    sub f b by f_b;
+    sub f h by f_h;
+    sub f k by f_k;
+
+} liga;
+
+
+# Classify these glyphs as 'ligatures' 
+# in the GDEF table,  and all other 
+# glyphs as 'baseglyphs'
+
+gdef {
+
+baseglyphs default
+ligatures f_f_i f_f_l f_i f_l 
+ligatures f_f f_j f_b f_h f_k;
+
+} gdef;
+

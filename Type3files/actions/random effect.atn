@@ -1,0 +1,31 @@
+## This action will randomly offset and rotate
+## -----------------------------------------------------
+## Save lsb and rsb
+##
+set F2 lsb
+set F3 rsb
+set F0 [caps/5]
+##
+## -----------------------------------------------------
+## Move randomly (units)
+##
+move 0 [rand100*F0/100]
+##
+##-----------------------------------------------------
+## Set origin to centre of glyph
+##
+set F0 [xmax-xmin]
+set F1 [ymax-ymin]
+origin [xmin+F0/2]  [ymin+F1/2]
+##
+##-----------------------------------------------------
+## Rotate randomly (degrees)
+##
+rotate [rand30-15]
+##
+##-----------------------------------------------------
+## Restore original rsb and lsb values
+##
+set lsb F2
+set rsb F3
+set p1 0

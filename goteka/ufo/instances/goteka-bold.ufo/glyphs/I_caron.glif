@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Icaron" format="2">
+  <advance width="534.2"/>
+  <unicode hex="01CF"/>
+  <outline>
+    <contour>
+      <point x="159.2" y="1460.2" type="line"/>
+      <point x="359.2" y="1460.2" type="line"/>
+      <point x="359.2" y="0.0" type="line"/>
+      <point x="159.2" y="0.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="-50.2" y="1813.0" type="line"/>
+      <point x="124.4" y="1813.0" type="line"/>
+      <point x="255.4" y="1666.2" type="line"/>
+      <point x="390.0" y="1813.0" type="line"/>
+      <point x="567.2" y="1813.0" type="line"/>
+      <point x="335.4" y="1502.2" type="line"/>
+      <point x="177.0" y="1502.2" type="line"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,17 @@
+languagesystem DFLT dflt;
+languagesystem latn dflt;
+
+
+feature salt {
+
+sub M by M.salt;
+sub a by a.salt;
+sub g by g.salt;
+sub j by j.salt;
+sub k by k.salt;
+sub l by l.salt;
+sub t by t.salt;
+sub y by y.salt;
+
+} salt;
+

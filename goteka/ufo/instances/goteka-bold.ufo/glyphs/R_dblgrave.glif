@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Rdblgrave" format="2">
+  <advance width="1380.8"/>
+  <unicode hex="0210"/>
+  <outline>
+    <contour>
+      <point x="159.2" y="1460.2" type="line"/>
+      <point x="704.6" y="1460.2" type="line"/>
+      <point x="847.4" y="1460.2"/>
+      <point x="956.2" y="1405.6" type="qcurve"/>
+      <point x="1073.2" y="1353.4"/>
+      <point x="1135.6" y="1251.2" type="qcurve"/>
+      <point x="1206.4" y="1151.8"/>
+      <point x="1205.4" y="1024.6" type="qcurve"/>
+      <point x="1207.4" y="869.6"/>
+      <point x="1098.8" y="749.0" type="qcurve"/>
+      <point x="997.8" y="635.0"/>
+      <point x="876.8" y="608.4" type="qcurve"/>
+      <point x="1302.8" y="0.0" type="line"/>
+      <point x="1065.4" y="0.0" type="line"/>
+      <point x="656.4" y="585.4" type="line"/>
+      <point x="359.2" y="585.4" type="line"/>
+      <point x="359.2" y="0.0" type="line"/>
+      <point x="159.2" y="0.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="359.2" y="1264.6" type="line"/>
+      <point x="359.2" y="779.4" type="line"/>
+      <point x="680.8" y="779.4" type="line"/>
+      <point x="830.2" y="779.4"/>
+      <point x="915.4" y="846.4" type="qcurve"/>
+      <point x="1002.4" y="911.6"/>
+      <point x="1002.4" y="1024.6" type="qcurve"/>
+      <point x="1004.8" y="1136.4"/>
+      <point x="917.4" y="1198.4" type="qcurve"/>
+      <point x="829.8" y="1266.0"/>
+      <point x="681.4" y="1264.6" type="qcurve"/>
+    </contour>
+    <contour>
+      <point x="853.0" y="1767.4" type="line"/>
+      <point x="776.4" y="1750.4" type="line"/>
+      <point x="990.2" y="1558.6" type="line"/>
+      <point x="1028.2" y="1558.6" type="line"/>
+    </contour>
+    <contour>
+      <point x="481.8" y="1764.0" type="line"/>
+      <point x="404.8" y="1746.4" type="line"/>
+      <point x="619.0" y="1558.6" type="line"/>
+      <point x="656.4" y="1558.6" type="line"/>
+    </contour>
+  </outline>
+</glyph>

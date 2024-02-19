@@ -1,0 +1,5 @@
+set F0 rsb
+stretch 111 111
+stroke 16
+move -20 -8
+set rsb F0
